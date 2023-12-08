@@ -1,6 +1,4 @@
-Voici le code pour le projet du jeu d'echecs de NADLER Bastian.
-
-Celui-ci peut-être compilé en faisant: make echecs
+Peut-être compilé en faisant: make echecs
 Pour supprimer les .o et le binaire: make clear
 Le dossier html peut-être reproduit avec: make Doxy
 Puis pour jouer au jeu il suffit d'éxecuter le fichier binaire echecs créé.
